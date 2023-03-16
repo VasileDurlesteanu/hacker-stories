@@ -18,7 +18,7 @@ function getTitle(titulo) {
 function App() {
   return (
     <div>
-      <h1>Hello {title} </h1>
+      <h1>Hello  </h1>
       <h1>Hello {welcome.greeting} {welcome.title}</h1>
       <h1>Hello {getTitle('Reactivity')}</h1>
 
